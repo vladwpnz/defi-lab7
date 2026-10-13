@@ -1,0 +1,17 @@
+
+node_modules/
+artifacts/
+cache/
+types/
+typechain-types/
+coverage/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.keystore
+wallet.json
+keystore/
+secrets/
+*.log

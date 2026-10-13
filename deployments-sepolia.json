@@ -1,0 +1,7 @@
+{
+  "network": "sepolia",
+  "router": "0xeE567Fe1712Faf6149d80dA1E6934E354124CfE3",
+  "vlc": "0xa001C70C1A8F4a8F524f45B2C7a53Dc8F03f00b8",
+  "musd": "0x93eBcFa253eA51f0000EE1f814f1F39014eD356d",
+  "integrator": "0x3Fde8fD66Bc31e60Cc94074e7D56f712aA1A18F6"
+}

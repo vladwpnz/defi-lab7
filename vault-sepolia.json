@@ -1,0 +1,7 @@
+{
+  "network": "sepolia",
+  "vault": "0xa2E96E95732D5eB364Dd31b437aBF6235fa7Dcf8",
+  "underlyingAsset": "0xa001C70C1A8F4a8F524f45B2C7a53Dc8F03f00b8",
+  "rewardToken": "0x93eBcFa253eA51f0000EE1f814f1F39014eD356d",
+  "router": "0xeE567Fe1712Faf6149d80dA1E6934E354124CfE3"
+}
